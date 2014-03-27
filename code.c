@@ -7,3 +7,15 @@ int sum(int x, int y)
     return t;
 
 }
+
+#include <stdio.h>
+
+int fun1()
+{
+    printf("Hello World !!\n");
+}
+
+char *fun2(char *test)
+{
+    return test;
+}
