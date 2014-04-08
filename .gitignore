@@ -3,3 +3,7 @@ intro/hello
 data/show_bytes
 data/test.c
 data/test
+
+*.s
+*.o
+*.i
